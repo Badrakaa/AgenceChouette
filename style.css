@@ -833,6 +833,10 @@ ol li {
     color: black!important;
 }
 
+ol li a {
+    color: black!important;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
