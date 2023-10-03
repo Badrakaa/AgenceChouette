@@ -829,6 +829,9 @@ h4 {
 ol {
     color: black!important;
 }
+ol li {
+    color: black!important;
+}
 
 @media (max-width: 1024px) {
     .bloc {
